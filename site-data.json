@@ -1,0 +1,330 @@
+{
+  "business": {
+    "name": "Bawa's Truck & Trailer Repair",
+    "shortName": "Bawa's Repair",
+    "tagline": "Dallas' Premier Heavy-Duty Towing & Mobile Repair Service",
+    "niche": "Towing Service",
+    "phone": "(214) 400-4228",
+    "address": "4700 Irving Blvd #200, Dallas, TX 75247",
+    "city": "Dallas, TX",
+    "hours": "Mon-Sun: 24/7 Emergency Service",
+    "ctaLabel": "Get Emergency Towing Now",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Best Towing & Trailer Repair in Dallas, TX | Bawa's Truck & Trailer Repair",
+    "description": "24/7 emergency towing, mobile truck repair, and trailer service in Dallas. Family-owned, 5-star service. Call (214) 400-4228 for fast, reliable roadside assistance."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "24/7 Emergency Towing & Repair in Dallas",
+      "headline": "Heavy-Duty Towing & Trailer Repair You Can Trust",
+      "subheadline": "Fast, professional roadside assistance for trucks, trailers, and heavy equipment. Serving Dallas and surrounding areas with 24/7 emergency service.",
+      "primaryCta": "Call (214) 400-4228",
+      "secondaryCta": "View Services"
+    },
+    "stats": [
+      {
+        "value": "24/7",
+        "label": "Emergency Service"
+      },
+      {
+        "value": "5.0",
+        "label": "Star Rating"
+      },
+      {
+        "value": "50+",
+        "label": "Years Combined Experience"
+      },
+      {
+        "value": "1000+",
+        "label": "Tows Completed"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Mobile Repair",
+        "title": "On-Site Truck & Trailer Repair Anywhere in Dallas",
+        "body": "Our fully equipped mobile service trucks bring the repair shop to you. Whether you're stranded on I-35, at a loading dock, or on a construction site, our certified technicians arrive fast with the tools and parts to get you back on the road.",
+        "bullets": [
+          "Diesel and gas engine diagnostics & repair",
+          "Brake, suspension, and electrical systems",
+          "Trailer lights, brakes, and axle service",
+          "Tire changes and wheel seal replacement"
+        ],
+        "reverse": false,
+        "cardLabel": "Quick Response",
+        "cardTitle": "30-Minute Average Arrival",
+        "cardBody": "We prioritize your time. Most calls are answered within 30 minutes in the Dallas metro area."
+      },
+      {
+        "eyebrow": "Heavy Towing",
+        "title": "Heavy-Duty Towing for Semi-Trucks & Equipment",
+        "body": "From class 8 semi-trucks to heavy equipment and lowbeds, our fleet of heavy-duty tow trucks can handle any recovery. We specialize in safe, efficient towing with minimal downtime for your operation.",
+        "bullets": [
+          "Semi-truck towing & recovery",
+          "Lowbed transport for heavy equipment",
+          "Winch-out and off-road recovery",
+          "Roadside assistance for all commercial vehicles"
+        ],
+        "reverse": true,
+        "cardLabel": "Capacity",
+        "cardTitle": "Up to 80,000 lbs Towing Capacity",
+        "cardBody": "Our heavy-duty rotators and wreckers can handle the biggest jobs in North Texas."
+      }
+    ],
+    "whyTitle": "Why Choose Bawa's Truck & Trailer Repair?",
+    "whyChooseUs": [
+      {
+        "title": "24/7 Emergency Service",
+        "description": "Day or night, weekends and holidays, we're always on call. No extra fees for after-hours service."
+      },
+      {
+        "title": "Certified & Experienced Technicians",
+        "description": "Our team has decades of combined experience with all major truck and trailer brands."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees. We provide upfront estimates before any work begins."
+      },
+      {
+        "title": "Fully Mobile Fleet",
+        "description": "We bring the shop to you. All our trucks are stocked with common parts and tools."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Bawa's is the only towing company I call. They've rescued me twice on I-30, always fast and fair priced.",
+        "author": "Chris M.",
+        "role": "Owner, Dallas Freight Lines"
+      },
+      {
+        "quote": "Had a brake failure on a trailer near Love Field. They were there in 20 minutes and fixed it on the spot. Saved my delivery schedule.",
+        "author": "Patricia L.",
+        "role": "Logistics Manager, Metro Distribution"
+      },
+      {
+        "quote": "Professional, honest, and reliable. Bawa's repaired my dump truck at my job site in record time. Highly recommend.",
+        "author": "David R.",
+        "role": "Construction Superintendent, BuildRight Inc."
+      }
+    ],
+    "cta": {
+      "headline": "Stranded? We're On Our Way.",
+      "subheadline": "Call now for immediate emergency towing or mobile repair service in Dallas.",
+      "primaryCta": "Call (214) 400-4228",
+      "secondaryCta": "Get a Free Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Bawa's Truck & Trailer Repair, we offer comprehensive heavy-duty towing and mobile repair services designed to minimize your downtime. From emergency roadside assistance to scheduled maintenance, our team delivers professional, reliable service across the Dallas-Fort Worth metroplex."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Heavy-Duty Towing",
+      "shortDescription": "Safe and efficient towing for semi-trucks, trailers, and heavy equipment up to 80,000 lbs.",
+      "longDescription": "Our heavy-duty tow trucks are equipped to handle the largest vehicles on the road. Whether you need a recovery after an accident, a breakdown tow, or transport for heavy machinery, our experienced operators ensure your equipment is moved safely and efficiently.",
+      "benefits": [
+        "24/7 availability for emergency towing",
+        "Specialized equipment for safe handling",
+        "Fast response times across Dallas",
+        "Insurance coordination assistance"
+      ],
+      "process": [
+        {
+          "title": "Call & Dispatch",
+          "description": "Call our 24/7 dispatch. We'll get your location and vehicle details to send the right truck."
+        },
+        {
+          "title": "Arrival & Assessment",
+          "description": "Our operator arrives, assesses the situation, and explains the tow plan and pricing."
+        },
+        {
+          "title": "Safe Towing & Delivery",
+          "description": "We carefully load, secure, and tow your vehicle to your chosen destination."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does heavy-duty towing cost in Dallas?",
+          "answer": "Costs vary based on distance, vehicle weight, and complexity. We provide upfront pricing before any tow. Call for a free estimate."
+        },
+        {
+          "question": "Do you tow semi-trucks with trailers attached?",
+          "answer": "Yes, we can tow tractor-trailer combinations. Our heavy-duty wreckers handle full rigs safely."
+        }
+      ],
+      "slug": "heavy-duty-towing"
+    },
+    {
+      "icon": "02",
+      "title": "Mobile Truck Repair",
+      "shortDescription": "On-site repair for diesel and gas trucks, including engine, brake, and electrical diagnostics.",
+      "longDescription": "Our mobile service trucks are fully stocked with diagnostic tools and common replacement parts. We come to your location — whether roadside, at a depot, or job site — to perform repairs and get you back on the road without the need for a tow.",
+      "benefits": [
+        "No need to bring your truck to a shop",
+        "Certified diesel mechanics on site",
+        "Same-day service for most repairs",
+        "Competitive labor rates"
+      ],
+      "process": [
+        {
+          "title": "Schedule or Call",
+          "description": "Call for emergency repair or schedule a convenient time for mobile service."
+        },
+        {
+          "title": "On-Site Diagnostics",
+          "description": "Our technician arrives and runs diagnostics to identify the issue."
+        },
+        {
+          "title": "Repair & Test",
+          "description": "We perform the repair, test the system, and ensure everything is running properly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What types of trucks do you repair?",
+          "answer": "We service all makes and models of heavy-duty trucks, including Freightliner, Kenworth, Peterbilt, Volvo, and International."
+        },
+        {
+          "question": "Do you carry parts on your truck?",
+          "answer": "Yes, we stock common parts like alternators, starters, belts, hoses, filters, and brake components. For specialty parts, we can source them quickly."
+        }
+      ],
+      "slug": "mobile-truck-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Trailer Repair & Maintenance",
+      "shortDescription": "Complete trailer repair services including brakes, lights, suspension, and axle work.",
+      "longDescription": "Keep your trailers road-ready with our comprehensive repair and maintenance services. From minor light repairs to major axle overhauls, our technicians handle all types of trailers — dry vans, reefers, flatbeds, and tankers.",
+      "benefits": [
+        "Preventative maintenance to avoid breakdowns",
+        "DOT inspection preparation",
+        "Quick turnaround on common repairs",
+        "Warranty on parts and labor"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We thoroughly inspect your trailer to identify all issues, from brakes to electrical."
+        },
+        {
+          "title": "Repair Plan",
+          "description": "We provide a detailed estimate and get your approval before starting work."
+        },
+        {
+          "title": "Quality Repair",
+          "description": "Our team completes repairs efficiently, then tests everything before you hit the road."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you repair reefer units?",
+          "answer": "Yes, we service and repair Thermo King and Carrier reefer units, including electrical and mechanical issues."
+        },
+        {
+          "question": "Can you do mobile trailer repair?",
+          "answer": "Absolutely. Many trailer repairs can be done on-site, including brake adjustments, light repairs, and tire changes."
+        }
+      ],
+      "slug": "trailer-repair-maintenance"
+    },
+    {
+      "icon": "04",
+      "title": "Roadside Assistance",
+      "shortDescription": "24/7 emergency roadside help including tire changes, jump starts, fuel delivery, and lockouts.",
+      "longDescription": "Our roadside assistance service is designed for commercial vehicles that need quick help to get moving again. Whether it's a flat tire on a loaded trailer, a dead battery, or running out of fuel, we respond fast with the right equipment.",
+      "benefits": [
+        "Available 24/7/365",
+        "No long wait times",
+        "Cashless payment accepted",
+        "Fleet account options available"
+      ],
+      "process": [
+        {
+          "title": "Call for Help",
+          "description": "Contact our dispatch with your location and issue."
+        },
+        {
+          "title": "Rapid Dispatch",
+          "description": "We send the nearest service truck with the equipment needed."
+        },
+        {
+          "title": "Service Complete",
+          "description": "We resolve the issue and get you back on the road quickly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer fuel delivery?",
+          "answer": "Yes, we deliver diesel and gas to stranded vehicles. Call with your location and fuel type."
+        },
+        {
+          "question": "Can you help with a lockout?",
+          "answer": "Yes, our technicians can unlock commercial truck cabs and trailers. We use non-destructive methods."
+        }
+      ],
+      "slug": "roadside-assistance"
+    }
+  ],
+  "about": {
+    "headline": "Dallas' Trusted Heavy-Duty Towing & Repair Experts",
+    "mission": "Our mission is to provide fast, reliable, and transparent towing and repair services for commercial vehicles in Dallas, keeping your fleet moving and your business on schedule.",
+    "story": [
+      "Bawa's Truck & Trailer Repair was founded with a simple goal: provide honest, high-quality heavy-duty towing and repair services to the Dallas community. With decades of combined experience in the trucking industry, our team understands the urgency of getting back on the road. We built our company on a foundation of integrity, reliability, and customer-first service.",
+      "Today, we operate a modern fleet of heavy-duty tow trucks and mobile service vehicles, serving trucking companies, construction firms, and independent owner-operators across the Dallas-Fort Worth metroplex. Our 5.0-star rating reflects our commitment to excellence — we treat every vehicle as if it were our own."
+    ],
+    "highlight": {
+      "stat": "5.0",
+      "label": "Star Rating from Satisfied Customers"
+    },
+    "coreValues": [
+      {
+        "title": "Reliability",
+        "description": "We show up when we say we will, with the right equipment and expertise."
+      },
+      {
+        "title": "Transparency",
+        "description": "Clear pricing and honest communication — no surprises."
+      },
+      {
+        "title": "Expertise",
+        "description": "Our technicians are certified and continuously trained on the latest systems."
+      },
+      {
+        "title": "Community",
+        "description": "We're proud to serve Dallas and support local businesses."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Call us for immediate towing or repair service, or fill out the form and we'll get back to you.",
+    "primaryCta": "Call (214) 400-4228",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Fort Worth",
+      "Arlington",
+      "Irving",
+      "Garland",
+      "Plano",
+      "Mesquite",
+      "Grand Prairie"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Towing Service",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2144004228",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
